@@ -16,8 +16,8 @@ const CONFIG = {
   HERO_TITLE_4: '新版上线',
   HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
+  HERO_CATEGORY_1: { title: '实操指南', url: '/tag/实操指南' },
+  HERO_CATEGORY_2: { title: '随心录', url: '/tag/随心录' },
   HERO_CATEGORY_3: { title: '使用教程', url: '/tag/实用教程' },
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
