@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
     { title: '欢迎来到万里的笔记库', url: 'https://pikpeak.xyz' },
-    { title: ‘更多精华内容请移步到我的博客', url: 'https://www.looksprings.com' }
+    { title: ‘我的博客', url: 'https://www.looksprings.com' }
   ],
 
   // 英雄区(首页顶部大卡)
